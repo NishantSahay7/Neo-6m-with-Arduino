@@ -1,2 +1,2 @@
 # Neo-6m-with-Arduino
-**DETAILS TO BE RELEASED SOON**
+**UPDATE: RAW VALUES from NEO 6m**
