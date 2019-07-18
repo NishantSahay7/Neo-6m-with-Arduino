@@ -1,0 +1,8 @@
+Latitude to Longitude Conversion from $GPGGA:
+Latitude is in format DDMM.MMMMM
+DD = int(float(Lat)/100) = int(3137.36664/100) = int(31.3736664) = 31
+MM = float(lat) - DD * 100 = 3137.36664 - 31 * 100 = 3137.36664 - 3100 = 37.36664
+
+LatDec = DD + MM/60 = 31 + 37.36664/60 = 31 + 0.6227773333333333 = 31.6227773333333333
+
+Same goes on for longitude
