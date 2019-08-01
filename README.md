@@ -1,2 +1,2 @@
 # Neo-6m-with-ATMEGA328
-**UPDATE: RAW VALUES from NEO 6m**
+**UPDATE: Discrete values from Neo 6m**
